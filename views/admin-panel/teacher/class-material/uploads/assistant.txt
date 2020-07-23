@@ -1,0 +1,22 @@
+assistant-- 
+
+1. logout kaj korche na 
+
+2. patient er history ta submit dile kothai jacche ? doctor e to show korche na . 
+
+3. appoinment confirm e kichu i kaj hocche na .. just design show korche .. 
+
+
+
+
+
+Patient---
+
+1. logout kaj korche na 
+
+2. Make Appoinment e click korle assistant er okhane kichu show korche na .. 
+
+
+website-
+
+1. doctor loagin e log in hocche na .. 

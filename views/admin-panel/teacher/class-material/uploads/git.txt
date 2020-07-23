@@ -1,0 +1,10 @@
+https://github.com/phpmyadmin/phpmyadmin/labels/newbie
+https://github.com/30-seconds/30-seconds-of-code
+https://github.com/freeCodeCamp/freeCodeCamp
+https://github.com/datasciencemasters/go
+https://github.com/tuvtran/project-based-learning
+https://github.com/php-censor/php-censor/labels/good-for-beginner
+https://github.com/orgmanager/orgmanager/labels/beginners-only
+https://github.com/deployphp/deployer/labels/good%20for%20beginner
+https://github.com/phpmyadmin/phpmyadmin/labels/newbie
+https://github.com/MunGell/awesome-for-beginners#php

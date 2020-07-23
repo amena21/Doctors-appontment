@@ -1,0 +1,15 @@
+1. http://www.phpeasystep.com/workshopview.php?id=12 
+
+2. http://www.phpeasystep.com/workshopview.php?id=14
+
+3. https://www.tutorialspoint.com/listtutorial/Latest-Forum-posts-on-your-Website/866
+
+4. https://www.tutorialspoint.com/listtutorial/Discussion-Forums-with-PHP/868 
+
+5. https://bytes.com/serversidescripting/php/tutorials/discussionforumswithphp/page1.html
+
+6. https://www.youtube.com/playlist?list=PLWCwHyO7D_vx-uH8MPhSYaOQ_wxjSSU5A
+
+7. https://www.youtube.com/watch?v=749ymaw-rCY
+
+8. https://code.tutsplus.com/tutorials/how-to-create-a-phpmysql-powered-forum-from-scratch--net-10188
